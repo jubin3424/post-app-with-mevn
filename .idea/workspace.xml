@@ -1374,49 +1374,6 @@
               <item name="post" type="b2602c69:ProjectViewProjectNode" />
               <item name="post" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="post" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -1492,12 +1449,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531448242302</updated>
-      <workItem from="1531448243523" duration="11462000" />
+      <workItem from="1531448243523" duration="11722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11462000" />
+    <option name="totallyTimeSpent" value="11722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1659" y="42" width="1479" height="906" extended-state="0" />
